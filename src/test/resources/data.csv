@@ -1,0 +1,8 @@
+registered user and bonus under limit,100060,true,30
+registered user and bonus over limit,100000060,true,500
+Unregistered and under limit,100060,false,10
+Unregistered and over limit,100000060,false,500
+Unregistered and boundary values under limit,4999999,false,499
+Unregistered and boundary values over limit,5010000,false,500
+Registered and boundary values under limit,1666633,true,499
+Registered and boundary values over limit,1670000,true,500
